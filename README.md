@@ -1,1 +1,1 @@
-# Analyzing-CIA-Factbook-Data-Using-SQL
+# Please click on Basics.ipynb to see the project
